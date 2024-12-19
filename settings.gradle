@@ -7,7 +7,7 @@
 rootProject.name = "BuildTest"
 
 include 'common-custom-user-data-gradle-plugin'
-include 'foojay-toolchains'
+include 'foojay-toolchains.foojay-resolver'
 include 'gradle-build-scan-quickstart'
 include 'maven_java_web_example'
 include 'WaveMaker_Training_ToDo_App'
