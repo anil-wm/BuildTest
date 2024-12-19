@@ -1,0 +1,14 @@
+
+.*/ 
+
+.gradle/
+
+build/
+
+
+gradlew
+gradlew.bat
+
+gradle/libs.versions.toml
+gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.properties
