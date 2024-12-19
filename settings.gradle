@@ -4,7 +4,7 @@
  * This project uses @Incubating APIs which are subject to change.
  */
 
-rootProject.name = "practice_"
+rootProject.name = "BuildTest"
 
 include 'common-custom-user-data-gradle-plugin'
 include 'foojay-toolchains'
